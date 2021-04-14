@@ -1,5 +1,5 @@
 {
-  "name": "Trillo",
+  "name": "trillo",
   "version": "1.0.0",
   "description": "trillo booking website tutorial",
   "main": "index.js",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ChrisWrenDev/Natours.git"
+    "url": "git+https://github.com/ChrisWrenDev/Trillo.git"
   },
   "author": "chris wren",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ChrisWrenDev/Natours/issues"
+    "url": "https://github.com/ChrisWrenDev/Trillo/issues"
   },
-  "homepage": "https://github.com/ChrisWrenDev/Natours#readme",
+  "homepage": "https://github.com/ChrisWrenDev/Tillo#readme",
   "devDependencies": {
     "autoprefixer": "^10.2.5",
     "concat": "^1.0.3",
